@@ -28,3 +28,7 @@ This script will notify the user if they're muted or not.
  * Add the script to the Scripts section
  * Reload OBS
  * Script automatically loads when starting OBS!
+
+
+(Streamer info:)
+I originally made this script for my streamer friend. If you want to see it in action, his Twitch is Kobe_Skrobe.
