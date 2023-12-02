@@ -17,6 +17,14 @@ This script will notify the user if they're muted or not.
 ![](https://github.com/Malik403/Mute_Checker/blob/main/Mute_Checker%20-%20Made%20with%20Clipchamp.gif)
 
 (Installation:)
-    Note: As of right now, you'll need Python 11.6 or below, Python 12 isn't supported.
+    Note: As of right now, you'll need Python 11.6 or below, Python 12 isn't supported. Also, the OBS module is ONLY for OBS, no need to pip install it!
 
-    * 
+ * Open OBS Studio
+ * Tools
+ * Scripts
+ * Python Settings
+ * Browse
+ * Navigate to installation of Python (Probably in: C:\Users\[username]\AppData\Local\Programs\ and Select Folder
+ * Add the script to the Scripts section
+ * Reload OBS
+ * Script automatically loads when starting OBS!
