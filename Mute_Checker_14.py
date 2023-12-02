@@ -82,3 +82,4 @@ def get_muted():
             mute_detect_time = None
 
 obs.timer_add(get_muted, 5000)
+print(f"Mute Checker initialized, {mute_time} second delay")
