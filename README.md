@@ -1,7 +1,7 @@
 # Mute_Checker
-This script will notify the user if they're muted or not.
+This is an obspython script to help a user remember to unmute their microphone by notiftying them (With a Tkinter GUI Message) if their microphone remains muted for longer than a configured length of time.
 
-(User Options to Edit:)
+## User Options to Edit
   * audio_source - This variable will need an Audio source to monitor. The default value is "Mic/Aux" which is the first default microphone source. No need to change if it's called that!
 
   * x_position - This variable would be the x position of the mute notification
