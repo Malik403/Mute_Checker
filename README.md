@@ -14,6 +14,7 @@ This script will notify the user if they're muted or not.
 
   * recording_or_streaming - This variable will be used if the user wants to notify ONLY when recording or ONLY when streaming. There's an option if you want it as both - it will notify if you're recording OR streaming. values: ("recording", "streaming", "both").
 
+![](https://github.com/Malik403/Mute_Checker/blob/main/Mute_Checker%20-%20Made%20with%20Clipchamp.mp4)
 
 (Installation:)
     Note: As of right now, you'll need Python 11.6 or below, Python 12 isn't supported.
