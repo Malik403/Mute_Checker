@@ -5,7 +5,7 @@ This script will notify the user if they're muted or not.
   * audio_source - This variable will need an Audio source to monitor. The default value is "Mic/Aux" which is the first default microphone source. No need to change if it's called that!
 
   * x_position - This variable would be the x position of the mute notification
-  - I have made a axis locator and it's on my GitHub. Link: [Not uploaded yet]
+    ---- I have made a axis locator and it's on my GitHub. Link: [Not uploaded yet]
   * y_position - This variable would be the y position of the mute notification
 
   * mute_message - Message to display when muted. The default message is "YOU'RE MUTED IDIOT"
