@@ -33,4 +33,4 @@ Once the script is installed, you need to add the script to OBS:
 
 
 ## Credits
-I originally made this script for my streamer friend, Kobe_Skrobe. You can see him in action [here](https://twitch.tv/Kobe_Skrobe).
+I originally made this script for my streamer friend, Kobe_Skrobe. You can see him in action [here](https://www.twitch.tv/kobeskrobe).
